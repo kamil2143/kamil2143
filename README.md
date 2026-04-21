@@ -1,16 +1,19 @@
-## Hi there 👋
+# Cześć, jestem Kamil! 👋
 
-<!--
-**kamil2143/kamil2143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jestem studentem **Inżynierii i Analizy Danych** na Politechnice Lubelskiej. Skupiam się na wykorzystaniu narzędzi technicznych do wyciągania wartościowych wniosków z danych.
 
-Here are some ideas to get you started:
+## 🛠️ Moje Technologie:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Analiza danych:** SQL (MySQL) - podstawowe zapytania, praca z danymi na poziomie akademickim.
+* **Arkusz kalkulacyjny:** MS Excel - wykorzystanie funkcji analitycznych
+* **Programowanie:** C++, Python (podstawy składni i logiki programowania).
+
+## 🚀 Nad czym pracuję:
+
+* Realizuję certyfikację **Data Science by IBM & Politechnika Lubelska **.
+* Buduję portfolio projektów opartych na realnych zbiorach danych (SQL & Excel).
+
+## 📫 Kontakt:
+
+* [LinkedIn](https://www.linkedin.com/in/kamil-sawa/)
+* E-mail: ksawa.data@gmail.com
